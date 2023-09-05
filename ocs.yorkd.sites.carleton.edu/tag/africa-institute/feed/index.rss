@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Africa Institute &#8211; Carleton History, Culture, and Commerce: Africa and Arabia</title>
+	<atom:link href="https://ocs.yorkd.sites.carleton.edu/tag/africa-institute/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ocs.yorkd.sites.carleton.edu</link>
+	<description></description>
+	<lastBuildDate>Sat, 20 Aug 2022 20:24:59 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.5</generator>
+	<item>
+		<title>2. Arabia at Sea!</title>
+		<link>https://ocs.yorkd.sites.carleton.edu/all/uae/arabia-at-sea/</link>
+					<comments>https://ocs.yorkd.sites.carleton.edu/all/uae/arabia-at-sea/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 30 Mar 2022 03:18:07 +0000</pubDate>
+				<category><![CDATA[UAE]]></category>
+		<category><![CDATA[Africa Institute]]></category>
+		<category><![CDATA[Dhow]]></category>
+		<category><![CDATA[Maritime]]></category>
+		<category><![CDATA[Museum]]></category>
+		<guid isPermaLink="false">https://ocs.yorkd.sites.carleton.edu/?p=348</guid>
+
+					<description><![CDATA[The second of the three lectures given at the Africa Institute by Professor Nidhi Mahajan. She is an assistant professor in Anthropology at the University of California, Santa Cruz. Mahajan obtained her PhD in Anthropology from Cornell University in 2015. Her research examines trans-regional maritime connections across the Indian Ocean through shipping and trade networks, [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://ocs.yorkd.sites.carleton.edu/all/uae/arabia-at-sea/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

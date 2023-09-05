@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bahrain &#8211; Carleton History, Culture, and Commerce: Africa and Arabia</title>
+	<atom:link href="https://ocs.yorkd.sites.carleton.edu/tag/bahrain/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ocs.yorkd.sites.carleton.edu</link>
+	<description></description>
+	<lastBuildDate>Sat, 20 Aug 2022 20:25:46 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.5</generator>
+	<item>
+		<title>6. The BBA</title>
+		<link>https://ocs.yorkd.sites.carleton.edu/all/the-bba/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 22 Apr 2022 12:17:18 +0000</pubDate>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Bahrain]]></category>
+		<guid isPermaLink="false">https://ocs.yorkd.sites.carleton.edu/?p=471</guid>
+
+					<description><![CDATA[Friends do I have a story for you😁 Last Friday a couple of my group members and I went to the Bahraini Basketball Association&#8217;s playoffs! It was the first of their three game series between the old versus the new, the traditional versus the modern, the North versus the South; Muharraq vs. Manama. On this [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>5. A Warm Welcome to Bahrain</title>
+		<link>https://ocs.yorkd.sites.carleton.edu/all/a-warm-welcome-to-bahrain/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 15 Apr 2022 22:48:53 +0000</pubDate>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Bahrain]]></category>
+		<guid isPermaLink="false">https://ocs.yorkd.sites.carleton.edu/?p=397</guid>
+
+					<description><![CDATA[As we&#8217;ve been in Bahrain for almost two weeks now, I think it&#8217;d be nice to share how it&#8217;s going! Going Northwest from Dubai, my group and I moved to the island-country known as Bahrain, supposedly home of the best natural pearls in the Gulf! Flying into the island was a tad surprising as the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

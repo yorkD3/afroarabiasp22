@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UAE &#8211; Carleton History, Culture, and Commerce: Africa and Arabia</title>
+	<atom:link href="https://ocs.yorkd.sites.carleton.edu/category/all/uae/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ocs.yorkd.sites.carleton.edu</link>
+	<description></description>
+	<lastBuildDate>Sat, 20 Aug 2022 20:25:12 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.5</generator>
+	<item>
+		<title>3. The secrets of Mleiha</title>
+		<link>https://ocs.yorkd.sites.carleton.edu/all/uae/secrets-of-mleiha/</link>
+					<comments>https://ocs.yorkd.sites.carleton.edu/all/uae/secrets-of-mleiha/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 30 Mar 2022 23:42:06 +0000</pubDate>
+				<category><![CDATA[UAE]]></category>
+		<category><![CDATA[Desert]]></category>
+		<category><![CDATA[Mleiha]]></category>
+		<category><![CDATA[Museum]]></category>
+		<guid isPermaLink="false">https://ocs.yorkd.sites.carleton.edu/?p=337</guid>
+
+					<description><![CDATA[This week, Professor Willis took my group and me to visit the Mleiha Archaelogical Museum, another development promoted by the ruler of Sharjah, Sheikh Sultan Bin Muhammad Al Qasimi, showcasing the ancient history of the modern human in Mleiha around 130000 years old. The Archaeological Centre is built around a preserved&#160;Umm an-Nar Tomb, pictured here, [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://ocs.yorkd.sites.carleton.edu/all/uae/secrets-of-mleiha/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>2. Arabia at Sea!</title>
+		<link>https://ocs.yorkd.sites.carleton.edu/all/uae/arabia-at-sea/</link>
+					<comments>https://ocs.yorkd.sites.carleton.edu/all/uae/arabia-at-sea/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 30 Mar 2022 03:18:07 +0000</pubDate>
+				<category><![CDATA[UAE]]></category>
+		<category><![CDATA[Africa Institute]]></category>
+		<category><![CDATA[Dhow]]></category>
+		<category><![CDATA[Maritime]]></category>
+		<category><![CDATA[Museum]]></category>
+		<guid isPermaLink="false">https://ocs.yorkd.sites.carleton.edu/?p=348</guid>
+
+					<description><![CDATA[The second of the three lectures given at the Africa Institute by Professor Nidhi Mahajan. She is an assistant professor in Anthropology at the University of California, Santa Cruz. Mahajan obtained her PhD in Anthropology from Cornell University in 2015. Her research examines trans-regional maritime connections across the Indian Ocean through shipping and trade networks, [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://ocs.yorkd.sites.carleton.edu/all/uae/arabia-at-sea/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>1. Traveling Across the Pacific</title>
+		<link>https://ocs.yorkd.sites.carleton.edu/all/uae/1-traveling-across-the-pacific/</link>
+					<comments>https://ocs.yorkd.sites.carleton.edu/all/uae/1-traveling-across-the-pacific/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 26 Mar 2022 02:37:50 +0000</pubDate>
+				<category><![CDATA[UAE]]></category>
+		<guid isPermaLink="false">https://ocs.yorkd.sites.carleton.edu/?p=295</guid>
+
+					<description><![CDATA[After 18 hours of flying and 23 hours of travel, my group and I are finally settled into The ACT Hotel in Sharjah. I am excited to try out the many amenities of this hotel, including an outdoor bar and pool, gym, and their half-board buffet service! My first international traveling experience was a good [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://ocs.yorkd.sites.carleton.edu/all/uae/1-traveling-across-the-pacific/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
